@@ -12,3 +12,4 @@ langchain-huggingface  # ✅ For Hugging Face integration
 numpy  # ✅ Often required by sentence-transformers
 wrapt
 h5py
+gunicorn
