@@ -1,0 +1,12 @@
+sentence-transformers
+flask
+pypdf
+python-dotenv
+pinecone-client  # ✅ Ensure updated Pinecone version
+langchain
+langchain-pinecone  # ✅ Pinecone integration with LangChain
+langchain_community  # ✅ Updated module name for community integrations
+langchain_experimental
+langchain-google-genai  # ✅ For Google AI integration
+langchain-huggingface  # ✅ For Hugging Face integration
+numpy  # ✅ Often required by sentence-transformers
