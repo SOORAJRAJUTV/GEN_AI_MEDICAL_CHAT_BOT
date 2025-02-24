@@ -10,3 +10,5 @@ langchain_experimental
 langchain-google-genai  # ✅ For Google AI integration
 langchain-huggingface  # ✅ For Hugging Face integration
 numpy  # ✅ Often required by sentence-transformers
+wrapt
+h5py
